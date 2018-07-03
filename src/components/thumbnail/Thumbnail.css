@@ -1,6 +1,5 @@
 :local(.thumbnail) {
   height: 100vw;
-  // border: grey solid 1px;
   max-width: 325px;
   max-height: 325px;
   margin: auto;
