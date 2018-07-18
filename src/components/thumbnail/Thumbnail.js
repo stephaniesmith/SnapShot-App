@@ -13,8 +13,7 @@ export default class Thumbnail extends Component {
     const { title, url } = this.props;
 
     return (
-      <div className={styles.thumbnail}>
-        <img src={url}/>
+      <div className={styles.thumbnail} style={{ backgroundImage: `url(${url})` }}>
         <h2>{title}</h2>
       </div>
     );
