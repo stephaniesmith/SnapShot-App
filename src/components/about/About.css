@@ -1,0 +1,9 @@
+:local(.about) {
+  font-family: Roboto, Helvetica;
+  margin: 0 5em;
+
+  a {
+    width: fit-content;
+    text-decoration: none;
+  }
+}
