@@ -22,7 +22,7 @@
     color: white;
   }
 
-  @media (min-width: 650px) {
+  @media (min-width: 700px) {
     height: 50vw;
     width: 50vw;
   }
