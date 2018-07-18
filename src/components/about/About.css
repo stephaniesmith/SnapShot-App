@@ -1,0 +1,7 @@
+:local(.about) {
+  font-family: Roboto, Helvetica;
+
+  a {
+    text-decoration: none;
+  }
+}
