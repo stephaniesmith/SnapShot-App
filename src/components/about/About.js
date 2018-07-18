@@ -12,7 +12,7 @@ export default class About extends Component {
         </a>
         <h1>I am Stephanie.</h1>
         <h2>I made this site. Here is a little about me.</h2>
-        <p>Full-Stack JavaScript developer with a degree in industrial design. I am looking to join a team where I bring my passion for collaborating, growth, and analyzing code to find solutions. As an avid hiker and creative, you can find me in the mountains making videos about the PNW.</p>
+        <p>Full-Stack JavaScript developer with a degree in industrial design. I have passion for collaborating, growth, and analyzing code to find solutions. As an avid hiker and creative, you can find me in the mountains making videos about the PNW.</p>
       </div>
     );
   }
